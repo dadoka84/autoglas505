@@ -1,0 +1,55 @@
+body {
+	background-image: url(images/bg.jpg);
+	background-repeat: repeat-x;
+	background-color: #24466B;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+}
+h1 {
+	font-size: 14px;
+	color: #183351;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.header {
+	background-image: url(images/ag_06.jpg);
+	background-repeat: no-repeat;
+	height: 150px;
+	width: 850px;
+}
+.email {
+	background-image: url(images/ag_03.jpg);
+	background-repeat: no-repeat;
+	height: 64px;
+	width: 850px;
+}
+.ispodfooter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #8698ad;
+}
+.boldtext {
+	font-size: 14px;
+	font-weight: bold;
+	color: #152E4D;
+}
+
+
+.footer {
+	background-image: url(images/ag_22.jpg);
+	background-repeat: no-repeat;
+	height: 23px;
+	width: 850px;
+}
+.footertext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #508EDB;
+}
